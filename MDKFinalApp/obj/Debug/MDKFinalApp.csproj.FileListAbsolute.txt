@@ -1,0 +1,11 @@
+C:\GitProjectMDK\MDKFinalApp\MDKFinalApp\bin\Debug\MDKFinalApp.exe.config
+C:\GitProjectMDK\MDKFinalApp\MDKFinalApp\bin\Debug\MDKFinalApp.exe
+C:\GitProjectMDK\MDKFinalApp\MDKFinalApp\bin\Debug\MDKFinalApp.pdb
+C:\GitProjectMDK\MDKFinalApp\MDKFinalApp\obj\Debug\MDKFinalApp.csproj.AssemblyReference.cache
+C:\GitProjectMDK\MDKFinalApp\MDKFinalApp\obj\Debug\MDKFinalApp.csproj.SuggestedBindingRedirects.cache
+C:\GitProjectMDK\MDKFinalApp\MDKFinalApp\obj\Debug\MDKFinalApp.Form1.resources
+C:\GitProjectMDK\MDKFinalApp\MDKFinalApp\obj\Debug\MDKFinalApp.Properties.Resources.resources
+C:\GitProjectMDK\MDKFinalApp\MDKFinalApp\obj\Debug\MDKFinalApp.csproj.GenerateResource.cache
+C:\GitProjectMDK\MDKFinalApp\MDKFinalApp\obj\Debug\MDKFinalApp.csproj.CoreCompileInputs.cache
+C:\GitProjectMDK\MDKFinalApp\MDKFinalApp\obj\Debug\MDKFinalApp.exe
+C:\GitProjectMDK\MDKFinalApp\MDKFinalApp\obj\Debug\MDKFinalApp.pdb
